@@ -10,4 +10,6 @@ The old (pre 2.80) version depended on xcftools which isn't maintained anymore. 
 * Offsets of the original layers are not preserved
 * Layer opacity is not preserved
 
+This work has been supported in full by the Croatian Science Foundation under the project number [IP-2019-04-5824](http://dragon.foi.hr:8888/ohai4games).
+
  
